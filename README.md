@@ -1,4 +1,4 @@
-# Campus Connect – Student Grievance Portal
+# Academic Support & Feedback System
 
 A full-stack MERN application developed for managing and resolving student grievances efficiently inside an institution. The system provides transparency, faster issue resolution, and structured communication between students and administration.
 
