@@ -1,6 +1,8 @@
-# Academic Support & Feedback System
+# Student Teacher Complaint System
 
 A full-stack MERN application developed for managing and resolving student grievances efficiently inside an institution. The system provides transparency, faster issue resolution, and structured communication between students and administration.
+
+![image alt](https://github.com/ayushu2004/Student-Teacher-Complaint-System/blob/7ad26a9c392f3ab6e8d4ba5a8f2e6a4bf3e142ea/login_screenshot.png)
 
 ---
 
