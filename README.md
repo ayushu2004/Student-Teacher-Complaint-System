@@ -22,6 +22,8 @@ A full-stack MERN application developed for managing and resolving student griev
 - MongoDB
 - Mongoose ODM
 
+  ![image alt](https://github.com/ayushu2004/Student-Teacher-Complaint-System/blob/009f0b038652dec2e5692bd889c2419b9c8d2c06/student_dashboard.png)
+
 ---
 
 # Main Features
