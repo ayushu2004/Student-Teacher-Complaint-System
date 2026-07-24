@@ -47,6 +47,8 @@ A full-stack MERN application developed for managing and resolving student griev
 - Protected Routes
 - Password Hashing using bcrypt
 
+  ![image alt](https://github.com/ayushu2004/Student-Teacher-Complaint-System/blob/551eccb6efbe7a4c35751ab53a031e58cb214a1c/admin_dashboard.png)
+
 ---
 
 # Folder Structure
